@@ -75,3 +75,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Assets/Adobe
 Assets/Materials/.autosave
+/mono_crash.mem.25974.1.blob
