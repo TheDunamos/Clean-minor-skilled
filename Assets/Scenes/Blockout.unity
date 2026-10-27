@@ -2922,10 +2922,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: b4328d6262300a54098e3ca75523f70e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2f0044b88a423bb4b87ce58c0cb4ffe5, type: 2}
     - target: {fileID: 919132149155446097, guid: b4328d6262300a54098e3ca75523f70e, type: 3}
       propertyPath: m_Name
       value: FootSupport
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: b4328d6262300a54098e3ca75523f70e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14052,6 +14060,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: c89bc67256bc3214ab52063a2da80174, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     - target: {fileID: 919132149155446097, guid: c89bc67256bc3214ab52063a2da80174, type: 3}
       propertyPath: m_Name
       value: SquareSideTable
@@ -23337,6 +23349,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63a42e6075efbcc409af8de5eaadacea, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     - target: {fileID: 919132149155446097, guid: 63a42e6075efbcc409af8de5eaadacea, type: 3}
       propertyPath: m_Name
       value: ParlorTallLamp
@@ -24978,6 +24994,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63a42e6075efbcc409af8de5eaadacea, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     - target: {fileID: 919132149155446097, guid: 63a42e6075efbcc409af8de5eaadacea, type: 3}
       propertyPath: m_Name
       value: ParlorTallLamp (1)
@@ -25147,6 +25167,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 12ddaa4dc52a112479aa614d5d227d9a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     - target: {fileID: 919132149155446097, guid: 12ddaa4dc52a112479aa614d5d227d9a, type: 3}
       propertyPath: m_Name
       value: Sofa
@@ -27606,10 +27630,18 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: b615160ee3f876045b8f038614fd8ebc, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     - target: {fileID: 919132149155446097, guid: b615160ee3f876045b8f038614fd8ebc, type: 3}
       propertyPath: m_Name
       value: ParlorCabinet
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: b615160ee3f876045b8f038614fd8ebc, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29035,6 +29067,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63a42e6075efbcc409af8de5eaadacea, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     - target: {fileID: 919132149155446097, guid: 63a42e6075efbcc409af8de5eaadacea, type: 3}
       propertyPath: m_Name
       value: ParlorTallLamp (2)
@@ -35627,6 +35663,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8143710011712545758, guid: 234ee539adbd49a43af69dd9f783e30f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
+    - target: {fileID: -1806680513116206669, guid: 234ee539adbd49a43af69dd9f783e30f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2aa2b5610d9aef6a1943fc4d32240394, type: 2}
+    - target: {fileID: -1806680513116206669, guid: 234ee539adbd49a43af69dd9f783e30f, type: 3}
+      propertyPath: 'm_Materials.Array.data[2]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2aa2b5610d9aef6a1943fc4d32240394, type: 2}
+    - target: {fileID: -1806680513116206669, guid: 234ee539adbd49a43af69dd9f783e30f, type: 3}
+      propertyPath: 'm_Materials.Array.data[4]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2aa2b5610d9aef6a1943fc4d32240394, type: 2}
+    - target: {fileID: -804731622281664130, guid: 234ee539adbd49a43af69dd9f783e30f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
+    - target: {fileID: -678588488315902003, guid: 234ee539adbd49a43af69dd9f783e30f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     - target: {fileID: 919132149155446097, guid: 234ee539adbd49a43af69dd9f783e30f, type: 3}
       propertyPath: m_Name
       value: ParlorWallsV2
@@ -46285,6 +46345,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 485bd1d56ce3b2a408185bedd0da8280, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     - target: {fileID: 919132149155446097, guid: 485bd1d56ce3b2a408185bedd0da8280, type: 3}
       propertyPath: m_Name
       value: Parlor BigChair
@@ -55892,6 +55956,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a278fa595684e6144ae1ae03493836bf, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2f0044b88a423bb4b87ce58c0cb4ffe5, type: 2}
     - target: {fileID: 919132149155446097, guid: a278fa595684e6144ae1ae03493836bf, type: 3}
       propertyPath: m_Name
       value: Pillow (1)
@@ -59629,6 +59697,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63a42e6075efbcc409af8de5eaadacea, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     - target: {fileID: 919132149155446097, guid: 63a42e6075efbcc409af8de5eaadacea, type: 3}
       propertyPath: m_Name
       value: ParlorTallLamp (3)
@@ -61398,6 +61470,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 485bd1d56ce3b2a408185bedd0da8280, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     - target: {fileID: 919132149155446097, guid: 485bd1d56ce3b2a408185bedd0da8280, type: 3}
       propertyPath: m_Name
       value: Parlor BigChair (1)
@@ -62345,10 +62421,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 75341f7c5917e234baccec06279262c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 75341f7c5917e234baccec06279262c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2f0044b88a423bb4b87ce58c0cb4ffe5, type: 2}
     - target: {fileID: 919132149155446097, guid: 75341f7c5917e234baccec06279262c8, type: 3}
       propertyPath: m_Name
       value: ParlorTable
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: 75341f7c5917e234baccec06279262c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -62931,6 +63019,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -678588488315902003, guid: c4455ab470289d343a76c971b1132b31, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
     - target: {fileID: 919132149155446097, guid: c4455ab470289d343a76c971b1132b31, type: 3}
       propertyPath: m_Name
       value: DoorHole 2_.8 (20)
