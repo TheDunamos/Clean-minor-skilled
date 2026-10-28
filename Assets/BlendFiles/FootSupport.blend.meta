@@ -3,7 +3,17 @@ guid: b4328d6262300a54098e3ca75523f70e
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric
+    second: {fileID: 4830872852146570355, guid: 364ce9b46a2f7cb4ab0c62b3ba44bff0, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wewd
+    second: {fileID: 2100000, guid: 0d58017b8e1e92bc89498f10762fa34d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
